@@ -7,3 +7,4 @@ Most welcome.
 
 <p>click on button</p>
 
+<p>Click para.</p>
